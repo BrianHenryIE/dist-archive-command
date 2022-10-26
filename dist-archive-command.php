@@ -10,3 +10,4 @@ if ( file_exists( $wpcli_dist_archive_autoloader ) ) {
 }
 
 WP_CLI::add_command( 'dist-archive', 'Dist_Archive_Command' );
+WP_CLI::add_command( 'increment-version', 'Increment_Version' );
