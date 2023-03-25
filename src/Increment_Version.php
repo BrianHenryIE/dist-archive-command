@@ -13,7 +13,7 @@ class Increment_Version {
 	 *
 	 * ## OPTIONS
 	 *
-	 * [<paths>]
+	 * [<paths>...]
 	 * : List of files where the version should be updated. The first file must contain a valid plugin header.
 	 *
 	 * [--version=<version>]
