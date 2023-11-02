@@ -11,4 +11,6 @@ on:
 
 jobs:
   test:
-    uses: wp-cli/.github/.github/workflows/reusable-testing.yml@main
+    uses: wp-cli/.github/.github/workflows/reusable-testing.yml@separate-matrix-v2
+    with:
+      minimum-php: 7.1
