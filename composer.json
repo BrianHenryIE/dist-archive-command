@@ -17,7 +17,7 @@
         "inmarelibero/gitignore-checker": "^1.0.2"
     },
     "require-dev": {
-        "wp-cli/wp-cli-tests": "^4",
+        "wp-cli/wp-cli-tests": "^5",
         "wp-cli/scaffold-command": "^2",
         "wp-cli/extension-command": "^2"
     },
